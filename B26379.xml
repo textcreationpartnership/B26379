@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from an English merchant in London, to his Dutch correspondant in Amsterdam, about publick affairs</title>
+            <author>G. M.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26379</idno><idno type="EEBO-CITATION">18472526</idno>
+  <idno type="VID">206519</idno>
+  <idno type="EEBO-PROQUEST">2240851717</idno>
+  
+            <idno type="STC">Wing M26</idno>
+            <idno type="OCLC">18472526</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26379)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206519)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1638:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from an English merchant in London, to his Dutch correspondant in Amsterdam, about publick affairs</title>
+                  <author>G. M.</author>
+               </titleStmt>
+               <extent>3 [i.e. 4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.C. and H.L. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"With allowance."</note>
+                  <note>Signed: G.M.</note>
+                  <note>Imprint from colophon; date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Revolution of 1688.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:206519:1"/>
+            <head>A LETTER FROM <hi>An English Merchant in London,</hi> TO HIS <hi>Dutch Correspondant</hi> IN AMSTERDAM, About Publick AFFAIRS.</head>
+            <argument>
+               <p>With Allowance.</p>
+            </argument>
+            <opener>
+               <salute>SIR.</salute>
+            </opener>
+            <p>I Had yours by the last Pacquet, and thank you heartily for your News and Advice: We have been old Friends, and always very kind, and I would not have the least Controversie with one I have so much reason to Esteem; but the same Friendship leads me to be Plain and Close with you, especially where our <hi>Credit,</hi> our <hi>Countryes,</hi> and what is more, <hi>Truth</hi> it self is concerned.</p>
+            <p>In Answer to mine, that complains of your <hi>unusual Briskness</hi> to us, you tell me your pre<g ref="char:EOLhyphen"/>sent Animosity rises from the Fears the News give you, which you daily receive of us, that we are <hi>running headlong into Popery,</hi> and that it will be your turn next, if you don't make a <hi>Diversion,</hi> and that for so good, and so great a Cause, as the Security of the <hi>Protestant Re<g ref="char:EOLhyphen"/>ligion,</hi> you have taken Heart, and resolve <hi>to hazard all to support it.</hi>
+            </p>
+            <p>As a Friend, I'll tell you what's said of our side, to ballance against the plausibility of your Pretensions: We say, If you are in all this Sincere, That you are mistaken, and have your Intelligence from ill Hands; such, who tell their <hi>Fears</hi> for <hi>Facts,</hi> or fear nothing, but that the Government is like to be settled <hi>without</hi> them, and it may be <hi>against</hi> them too, if they will not come into our just Measures; for let them say what they will to you, I assure you, <hi>in the Faith of a Friend,</hi> that the business is, <hi>a fair and equal Liberty of Conscience to all Per<g ref="char:EOLhyphen"/>swasions;</hi> to be established by the most durable Methods, and such as that one Party shall not have the means of preying upon the other, and less, that the whole should be in hazard from any one Party, and that even the <hi>Church of England's</hi> share in this Security, shall yet bare <hi>(if She please) a greater preference,</hi> than her Number could in Justice require.</p>
+            <p>Such a Liberty <hi>(and such or none)</hi> cannot bring in <hi>Popery,</hi> tho it <hi>preserves</hi> Papists; for their Preservation being fix't by that which secures us, <hi>it puts them upon preserving that which gives us our common Safety.</hi> And tho this may be thought by some a meer Specula<g ref="char:EOLhyphen"/>tion; I dare assure you, its good English, very feasable and requisite, and that which Interest
+<pb n="2" facs="tcp:206519:2"/>as well as Native Right teaches, I will not say presses to.</p>
+            <p>But now that I have told you, and that up<g ref="char:EOLhyphen"/>on none of the worst or meanest Authorities neither, what we expect, and we have cause to hope the Goodness of his Majesty will in Parliament Confirm to us: I'll tell you what part you have in our Thoughts. That you in <hi>Holland</hi> were never yet found guilty of that <hi>civil Sin</hi> of preferring your Religion to your Interest, and that if you will turn over the Treaties you have made with other Govern<g ref="char:EOLhyphen"/>ments, and the Methods you have taken to undermine <hi>even your Protestant Neighbours</hi> in point of Trade, It will appear a Truth not to be contested, that generally speaking, the first Article of your Creed is INTEREST; so that what we have to do is to examine what <hi>Interest</hi> can move you to this surly Beha<g ref="char:EOLhyphen"/>viour; for, shifts apart, this is the close, the true and important Question between us at this time. I'll tell you still what our Folks say, That you blow up our People by their <hi>Aversion to Popery</hi> against the <hi>Liberty</hi> that should secure us both against▪ That and You; for as a true legal Liberty, upon its own Foundation, is the highest and last human Security against Force on Conscience, so if you can prevent it, and thereby keep up that <hi>Disturbed</hi> and <hi>Ʋneven</hi> State of Government among us, that has hinder'd the encrease of our Trade, which this Liberty would certain<g ref="char:EOLhyphen"/>ly give us, You will still run away with that unequal share, that has made you, under all your Native and Domestick Disadvantages, e<g ref="char:EOLhyphen"/>qual in Wealth and Power to the first rank of Crowned Heads in the World, and that ye are therefore as much <hi>afraid</hi> of the success of these Measures of Liberty of Conscience in Parliament, as you were once of the Parlia<g ref="char:EOLhyphen"/>ment Forces, least they should have fixt them<g ref="char:EOLhyphen"/>selves that formidable Common-Wealth they began to look like; which I need not tell you occasioned the first War between us, nor that they were Protestant all over: So that while you would disorder us, by suggesting the <hi>Insincerity</hi> of the King about the Liberty, his <hi>Sincerity</hi> is the only thing you fear, or ought to fear; and for that reason, 'tis the great Thing the King is most obliged to maintain: And which is more, we thank you for the Ob<g ref="char:EOLhyphen"/>jection; for tho we have no cause to doubt so good and generous a Prince, yet you have by your Opposition fastned our Point, and en<g ref="char:EOLhyphen"/>gag'd him in Reason of State to preserve the Liberty, for the <hi>single Reason</hi> that makes you oppose it, TRADE, I mean, upon the <hi>Rise</hi> or <hi>Fall</hi> of which his own Revenue depends that is the support of the Menarchy.</p>
+            <p>'Tis natural enough to ask you, that if so small a People, in so little, and so ill a Coun<g ref="char:EOLhyphen"/>try, by the <hi>Tranquility</hi> Liberty of Conscience has brought you, and the <hi>Industry</hi> that State of Peace, and Security has <hi>excted,</hi> have been able to make your selves Masters of so great a part of the Traffick of the World, what, might we not hope from the same measure, that have such native advantages upon you, as <hi>Number, Scituation, and more than a Self-Subsistance:</hi> In short, we have liv'd almost an Age in a State of War, at home, at least of <hi>Strife;</hi> and as the fleetest Horses may be beaten by <hi>Weight,</hi> so 'tis certain nothing else has given you the Advantages you have had upon us, and that you are so unwilling to lose, or share amongst your Neighbours; but when we ride equal, we can never miss of winning the Match. <hi>Monarchs,</hi> that deal with States by their own measures will ever carry their Point, who, to the conveniencies of their own Form of Government, wisely add those of the Government they have to do with.</p>
+            <p>We cannot yield your Power to your Repub<g ref="char:EOLhyphen"/>lick, perhaps the <hi>worst</hi> built of the kind; for tho you had a being before Liberty of Consci<g ref="char:EOLhyphen"/>ence, your Well-being, to be sure your Great<g ref="char:EOLhyphen"/>ness came by it. Your Countrey in it self seems the <hi>Reprobation</hi> of the World; Ordain'd wanting, as it were, for the Tryal of humane Skill; what Art could do after Nature; and how near Man could come to Creation: I own to you an extraordinary Industry, but it has been the civil Unity this Liberty has given you, that has made you a Land of stately Ci<g ref="char:EOLhyphen"/>ties, and fill'd you with Trade, and Treasure, and all that is excellent of all Countrys; as if you were the great Market, or Exchequer of the whole. In fine, after I tell you, That, Proportion observ'd, you exceed us in Traffick, five to one, that have ten times your Advanta<g ref="char:EOLhyphen"/>ges for Trade; Can you think, that this has <hi>no Temptation</hi> in it? or that We shall ever be so wanting to our selves, as not to understand, and pursue this Interest? 'Tis (alas!) but too long that We have suffer'd you to make this Benefit by our Folly; for when this Liberty has taught us to know our own strength <hi>you cannot be longer ignorant of it;</hi> for almost all, that we shall get by these Measures, you must lose; and 'tis this you wisely apprehend, Tho you <hi>Christen</hi> your dislike to our Liberty, under
+<pb n="3" facs="tcp:206519:2"/>the fair Name of the <hi>Protestant Religion;</hi> but that will not longer pass upon us, since all the skill you have cannot perswade us to believe that That should be ill for us, <hi>that is so good for you.</hi> I must also tell you that the Dissenter, who is your <hi>nearest Kinsman</hi> in Religion on this side the Water, takes it extreamly ill of you, that you oppose the Ease his pressing Circumstan<g ref="char:EOLhyphen"/>ces require: That after so long, and furious a Persecution upon Him, and his Family, you should fall in with his Oppressors; and instead of securing him from the future Power of his Enemies, Quarrel the poor Man for not trust<g ref="char:EOLhyphen"/>ing himself upon his Adversaries Promises, tho by doing it, he hazards more than his present Liberty, and is uncertain of any Performance at last: for he cannot conceive how or when his Persecutors were converted; and if they be, tho the <hi>Synod of Dort</hi> held <hi>no falling from Grace,</hi> yet those Gentlemen you side with here, assert the contrary Opinion; And against that <hi>Slip</hi> it is the <hi>Poor Man</hi> desires to be secur'd: For he argues thus, and I confess I don't pre<g ref="char:EOLhyphen"/>sently see what reasonable answer can be made him.</p>
+            <p>He says, The best of the security promis'd him is, <hi>That he shall not be Persecuted hereafter.</hi> But then says he, who shall secure me to that Time; for if I perish for that hope, or my hazard of all now out-weighs the value of the enjoyment of after time, admitting their truth that promise me, ought I to close with such a bargain? Besides, suppose I could <hi>shift</hi> through the contempt of this present Grace, (an odd supposal, when 'tis imagin'd I cannot <hi>long out-live</hi> the acceptance of the very Liber<g ref="char:EOLhyphen"/>ty, it has such an Army in the Belly of it) what have I at last besides the priviledge of living at my own Charge, and that but as long as my old Enemies please; for if I have <hi>no share</hi> in the Power that should secure my Liberty, they that have it may take it away when they will: And for that purpose the pretence of the Glory of God, the Safety of the Govern<g ref="char:EOLhyphen"/>ment, and I know not what else shall not be wanting to deprive me. Upon the whole mat<g ref="char:EOLhyphen"/>ter, I find my self as unsafe then, for tho it is supposed the Papist must break his word, (for all it is, at this time, his confest Civil and Re<g ref="char:EOLhyphen"/>ligious Interest to keep it) I must suppose too that the Church of <hi>England-Man</hi> may do it; and if he does, I am absolutely in his Power; for I am not of the Government, &amp; no <hi>Freehold,</hi> no <hi>Brains,</hi> no <hi>Honesty,</hi> no any thing <hi>can</hi> prefer me, nor, in this Case secure me. Now that very <hi>Expedient</hi> that will keep Liberty <hi>upright</hi> against what may be attempted by the Zeal, or Ambition of the Church of <hi>England-Man</hi> in Power, will keep the Liberty <hi>streight</hi> a<g ref="char:EOLhyphen"/>gainst the Bigottry of the Roman <hi>Catholick</hi> in the Government. In short, I am one that be<g ref="char:EOLhyphen"/>lieves there is a God, that he governs the World, that less things than this great <hi>Ease</hi> and Tranquility do not come by Trick, or Chance: I'll trust him to keep it that gave it, I'll honour the King for it, I'll love my Neigh<g ref="char:EOLhyphen"/>bour, forgive my Enemies, and commit my self, in well-doing, to him that is able to save me, who turns the Hearts of Kings as Waters, and does whatever he pleases.</p>
+            <p>Thus the <hi>poor Prisoner</hi> argues now he's got home to his own fire side, and I leave you to answer him, for I profess I cannot.</p>
+            <p>I had forgot one thing, with which I shall conclude this Letter, already too long upon any score but that of friendship, and in a mat<g ref="char:EOLhyphen"/>ter of this Importance, 'tis this. The Dis<g ref="char:EOLhyphen"/>senter is extreamly fearful, lest this change of yours from him to the Church-Man, arises from a worldly Principle, and not a mistake; for tho pursuing <hi>that</hi> may be a great one, as to the other World, yet ever knowing your skill in chusing, and sincerity in following the me<g ref="char:EOLhyphen"/>thods that get most of this, he is apprehensive lest <hi>that</hi> passion prevail with you to Sacrifice him to his Enemies. Now his motives to this thought are, First, That he no sooner seem'd in one Interest with the Government here, than you declin'd him, and <hi>struck up a Friendship</hi> with his old Persecutors, and your Enemies, because they seemed to take turns with him a<g ref="char:EOLhyphen"/>gainst the Government. But for this he says, That truly the Government came to him, He did not go to it, and tho this be less merito<g ref="char:EOLhyphen"/>rious on his part towards the Government, it ought at least to vindicate him with you, And he adds, That he could never justifie himself with God or men, to be against the Govern<g ref="char:EOLhyphen"/>ment when 'tis against him, and against it <hi>when it is for him too,</hi> and therefore that it is Injustice to stile him a <hi>Temporizer</hi> for comply<g ref="char:EOLhyphen"/>ing with the Government upon his <hi>own Prin<g ref="char:EOLhyphen"/>ciple,</hi> or being of the same mind he ever was, because the Government is pleas'd to be of <hi>that mind also.</hi>
+            </p>
+            <p>His Second motive to think you deliberately chang'd, is. That the Church of <hi>England</hi>-man, your new Friend, is a man of pleasure, a <hi>Gentleman,</hi> more adicted to a Court, then an Exchange, But he is a <hi>Trades-man,</hi> a <hi>Merchant,</hi>
+               <pb n="3" facs="tcp:206519:3"/>one that is like to meet you at your Market with as good a Price, as Fair Dealing, and bet<g ref="char:EOLhyphen"/>ter goods to ingage Customers, and therefore the less liberty he has at home, the better it will be for you abroad: I say, the Dissenters con<g ref="char:EOLhyphen"/>sisting of the <hi>Sober,</hi> and <hi>Trading</hi> Body of the Kingdom, and consequently most likely to im<g ref="char:EOLhyphen"/>prove this Liberty to your disadvantage in point of Trade, he fears you oppose his hap<g ref="char:EOLhyphen"/>piness, for your <hi>own Gain,</hi> and decline him, and disgrace the Liberty that you may keep the ad<g ref="char:EOLhyphen"/>vantage to your selves, that you have gotten by it; which if he should happen to guess right, shews the Liberty not to be an effect of Ver<g ref="char:EOLhyphen"/>tue, but Interest, and therefore all you say a<g ref="char:EOLhyphen"/>gainst him, and his Liberty, is to be suspected. And the Truth is, when you give it at home so frankly, even where Papists, in proportion to ours, are <hi>Fifty to One,</hi> and many of them e<g ref="char:EOLhyphen"/>minently imploy'd by you too, and that lati<g ref="char:EOLhyphen"/>tude maintained by no obscure person amongst you for just, and prudent, it shews in earnest, you know what is good for your selves, and that you are selfish enough, to keep the rest of the World in ignorance of that Vertue. But for your comfort, I will tell you, we begin to find; that we are an <hi>Island,</hi> plac'd to <hi>give,</hi> and not to receive the Laws of Trade; that we have <hi>brave Ports,</hi> a <hi>fruitful Soyl, excellent Growths,</hi> an <hi>industrious</hi> and <hi>valiant People,</hi> capable of the <hi>highest Acquisitions,</hi> and a <hi>Prince,</hi> that to his <hi>lasting Glory,</hi> has promis'd to <hi>Head</hi> &amp; <hi>Cherish</hi> the Inclinations of his Virtu<g ref="char:EOLhyphen"/>ous, and Industrious Subjects of <hi>all Perswasions;</hi> a Method that cannot fail to <hi>cure</hi> the Jealou<g ref="char:EOLhyphen"/>sies of his mistakens People, and <hi>disappoint</hi> the devices of his unreasonable Enemies. I shall say no more now, perhaps you'l think this too much, but whatever you think, I am sure you know I am no <hi>Papist,</hi> and that I am very much, and very truely</p>
+            <closer>
+               <signed>Yours &amp;c. G. M.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. C.</hi> and <hi>H. L.</hi> and are to be Sold by most Booksellers in <hi>London</hi> and <hi>Westminster.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
